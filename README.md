@@ -29,3 +29,7 @@ Notes
 If you'd like the README to include run instructions again (or a small script to exercise a few endpoints), tell me and I will add a brief, non-sensitive section.
 ```
 
+  
+
+https://github.com/user-attachments/assets/cc084f37-e38d-4698-888a-0f011d0c8864
+
