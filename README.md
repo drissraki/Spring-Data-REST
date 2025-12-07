@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a307dc96-f008-4713-9afe-ba1b2efb6bc0
+
 # MS-Banque — Endpoints reference
 
 This file lists the public REST endpoints provided by the MS-Banque sample service. It intentionally contains only the endpoints (no tooling references or sensitive details).
@@ -32,10 +36,6 @@ If you'd like the README to include run instructions again (or a small script to
   
 
 
-
-
-
-https://github.com/user-attachments/assets/912dc421-0da2-46fe-a7ef-f0ce74e0776f
 
 
 
